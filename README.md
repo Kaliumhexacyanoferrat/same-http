@@ -17,4 +17,4 @@ Same HTTP is a language independent HTTP API service specification with bindings
 
 ## Specification
 
-The [specification](./Specification/Index.md) declares key elements such as `Engine`, `Host`, `Adapter` or `Handler` and defines how an integration should "feel like". It also specifies a set of modules a binding should provide in order to allow developers to switch between languages without losing functionality.
+The [specification](./Specification/Index.md) declares key elements such as `Engine`, `Host`, `Adapter` or `Handler` and defines how an integration should "feel like". It also specifies a set of modules a binding should provide (such as `Webservices`) in order to allow developers to switch between languages without losing functionality.
