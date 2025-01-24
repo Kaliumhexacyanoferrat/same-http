@@ -5,7 +5,7 @@ This document describes how a binding has to be implemented.
 ## Integration
 
 The main entry points for using a binding within a programming language. 
-An integration may use one or multiple web servers to actually serve HTTP requests.
+An integration may use one or multiple web server technologies to actually serve HTTP requests.
 
 | Element | Description |
 |---|---|
