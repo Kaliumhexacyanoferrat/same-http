@@ -1,5 +1,8 @@
 # Same HTTP
 
+> [!CAUTION]  
+> This project is work in progress yet publicly available to gather feedback.
+
 Same HTTP is a language independent HTTP API service specification with bindings for various programming languages. This allows
 
 - Developers to re-use their knowledge as they try out new languages or shift languages on their work projects
