@@ -12,4 +12,4 @@ and not vendor specific.
 
 | Element | Description |
 |---|---|
-| [Layouting](./Modules/Layouting.md) | Structures an application and provides routing. |
+| [Layouting](./Layouting.md) | Structures an application and provides routing. |
