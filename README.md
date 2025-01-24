@@ -3,7 +3,7 @@
 Same HTTP is a language independent HTTP API service specification with bindings for various programming languages. This allows
 
 - Developers to re-use their knowledge as they try out new languages or shift languages on their work projects
-- Programming languages to quickly provide a well-tested HTTP service stack
+- Programming languages to quickly provide a well architected HTTP service stack
 - Middleware developers to make their solutions widely available
 
 ## Bindings
