@@ -64,3 +64,5 @@ Not supplying a `CertificateValidator` allows the client to pass any certificate
 The protocol between the `Engine` and the host is up to the binding implementation.
 It is recommended that the host creates some kind of configuration structure that is then
 passed to the engine.
+
+// TBD: Where to place? Model?
