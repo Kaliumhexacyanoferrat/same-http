@@ -13,6 +13,7 @@ Same HTTP is a language independent HTTP API service specification with bindings
 
 | Language | Link | Status |
 |---|---|---|
+| C# / .NET Core | same-http-csharp | In Progress |
 | JavaScript | same-http-js | In Progress |
 | Kotlin / Java | same-http-jvm | In Progress |
 | Python | same-http-python | In Progress |
