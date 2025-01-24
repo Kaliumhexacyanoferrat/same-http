@@ -44,13 +44,13 @@ An implementation may add additional parameters if relevant for an engine (e.g. 
 
 The `Bind()` method must allow the user to configure a TLS secured endpoint. Therefore, the user must be allowed to pass a `CertificateProvider` and optionally a `CertficateValidator` interface implementation to configure mutual TLS (mTLS). As soon as the user passes a `CertificateProvider`, the endpoint is considered secure.
 
-`CertificateProvider` is defined as:
+### CertificateProvider
 
 | Member | Contract |
 |---|---|
 | `Provide(string?)` | Returns the certificate to be used for the specified host name, using a platform type for the certificate. Returning `null` will cause the engine to abort the TLS connection. |
 
-`CertificateValidator` is defined as:
+### CertificateValidator
 
 | Member | Contract |
 |---|---|
