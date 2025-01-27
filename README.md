@@ -17,7 +17,6 @@ Same HTTP is a language independent HTTP API service specification with bindings
 | JavaScript | same-http-js | In Progress |
 | Kotlin / Java | same-http-jvm | In Progress |
 | Python | same-http-python | In Progress |
-| Rust | same-http-rust | In Progress |
 
 ## Specification
 
